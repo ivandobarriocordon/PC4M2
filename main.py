@@ -30,6 +30,6 @@ my_list.sort()
 
 print(my_list)
 
-my_tuple = my_tuple + ("Xavier",)
+my_tuple += ("Xavier",)
 
 print(my_tuple)
